@@ -1,3 +1,6 @@
+# to declare: name: string
+# to define: name: string = 'Roxana'
+
 x = 10
 y = "Ana"
 print(x)
